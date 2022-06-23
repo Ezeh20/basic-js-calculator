@@ -12,7 +12,6 @@ else if(operation === 2){
 }
 else if(operation === 3){
     answer=firstNumber * secondNumber
-    
 }
 else if(operation === 4){
     answer=firstNumber / secondNumber
@@ -20,6 +19,6 @@ else if(operation === 4){
 }else{
     alert("enter a valid option")
 }
-alert(answer)
+alert("answer = "+answer)
 
 
