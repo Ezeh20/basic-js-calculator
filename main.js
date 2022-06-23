@@ -1,6 +1,6 @@
 let firstNumber=Number(prompt("Enter first number \n"))
 let secondNumber=Number(prompt("Enter second number \n"))
-let operation=Number(prompt("what operation do you want to carry out :\n \nenter 1 for addition\nenter 2 for subtraction\nenter 3 for multiplcation\nenter 4  for division"))
+let operation=Number(prompt("Select the operation you wish to perform :\n \nenter 1 for addition\nenter 2 for subtraction\nenter 3 for multiplcation\nenter 4  for division"))
 
 
 if(operation === 1){
